@@ -1,0 +1,45 @@
+h1{
+    margin-left: 0px;
+    color: red;
+    text-align: center
+;
+}
+
+.tiulo h2{
+    color: gray;
+}
+
+#titulo-1{
+    color: purple;
+}
+
+ul{
+    color: orangered;
+     
+}
+
+#primeiro-item{
+    color: yellow; 
+}   
+
+div{
+    width: 100px;
+    height: 80px;
+    color: white;
+    font-size: 15px; 
+}
+
+#box1{
+    background-color: gold;
+}
+
+#box2{
+    background-color: green;
+    border:  2px solid, blue;
+    padding: 10px 0px 20px;
+    margin: 5px;
+}
+
+#box3{
+    background-color: red;
+}
